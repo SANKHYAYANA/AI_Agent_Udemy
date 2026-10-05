@@ -1,0 +1,6 @@
+1.import required libraries 
+2.load configuration
+3.create a client which communicates model
+4.send a question to AI model 
+5.Display the response 
+
