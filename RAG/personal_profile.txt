@@ -1,0 +1,201 @@
+# Synthetic Personal Profile
+
+IMPORTANT: All information in this document is fictional and created for software testing. It does not represent a real person.
+
+## 1. Basic Information
+
+Full Name: Arjun Mehta
+Age: 28
+Date of Birth: 14 March 1998
+Gender: Male
+Nationality: Indian
+Current City: Pune, Maharashtra, India
+Languages Known: English, Hindi, Marathi
+Preferred Language for Professional Communication: English
+
+## 2. Contact Information
+
+Email Address: [arjun.mehta@example.com](mailto:arjun.mehta@example.com)
+Phone Number: +91-90000-12345
+Preferred Contact Method: Email
+Preferred Time for Calls: 10:00 AM to 5:00 PM IST
+Note: The email uses a reserved example domain, and the phone number is fictional test data.
+
+## 3. Education
+
+Highest Qualification: Bachelor of Technology in Computer Science
+University: Western Valley Institute of Technology
+Graduation Year: 2020
+CGPA: 8.4 out of 10
+Specialization: Artificial Intelligence and Data Science
+
+Relevant Subjects:
+
+* Data Structures and Algorithms
+* Database Management Systems
+* Operating Systems
+* Object-Oriented Programming
+* Machine Learning
+* Natural Language Processing
+* Computer Networks
+
+Academic Project: Smart Library Recommendation System
+
+Project Description: Developed a recommendation system that suggests books based on a user's reading history, preferred categories, and book ratings.
+
+Technologies Used: Python, pandas, scikit-learn, SQLite
+
+## 4. Employment Details
+
+Current Employer: NovaTech Digital Solutions
+Current Job Title: Python Software Engineer
+Employment Start Date: 1 July 2023
+Total Professional Experience as of October 2026: Approximately 3 years and 3 months
+Employment Type: Full-time
+Work Arrangement: Hybrid
+Office Location: Pune, Maharashtra
+
+Previous Employer: BluePeak Software Services
+Previous Job Title: Junior Software Developer
+Employment Period: June 2021 to June 2023
+
+Current Responsibilities:
+
+* Developing Python backend applications.
+* Designing and maintaining REST APIs.
+* Writing database queries and optimizing data access.
+* Integrating third-party services.
+* Building internal automation tools.
+* Writing unit tests and debugging production issues.
+* Reviewing code and documenting technical processes.
+
+## 5. Technical Skills
+
+Programming Languages:
+
+* Python
+* SQL
+* JavaScript
+
+Frameworks and Libraries:
+
+* FastAPI
+* Flask
+* pandas
+* NumPy
+* scikit-learn
+
+Databases:
+
+* PostgreSQL
+* SQLite
+* MongoDB
+
+AI and Machine Learning:
+
+* Natural Language Processing
+* Text classification
+* Embeddings
+* Retrieval-Augmented Generation
+* Prompt engineering
+* Large language models
+
+Developer Tools:
+
+* Git
+* GitHub
+* PyCharm
+* Postman
+* Docker
+
+## 6. Current Projects
+
+Project 1: Customer Support Knowledge Assistant
+
+Objective: Build an internal assistant that answers customer support questions using company documentation.
+
+Technologies: Python, FastAPI, Ollama, ChromaDB
+
+Current Status: Prototype development
+
+Project 2: Invoice Processing Automation
+
+Objective: Extract invoice details from uploaded documents and validate the extracted information.
+
+Technologies: Python, OCR, FastAPI, PostgreSQL
+
+Current Status: Testing
+
+Project 3: Employee FAQ Chatbot
+
+Objective: Help employees find information about company policies, leave procedures, and workplace guidelines.
+
+Technologies: Python, embeddings, vector search, large language models
+
+Current Status: Requirements gathering
+
+## 7. Personal Interests
+
+Hobbies:
+
+* Reading technology articles
+* Playing badminton
+* Travelling
+* Learning about artificial intelligence
+* Building small Python projects
+
+Preferred Learning Method: Hands-on coding and practical projects
+
+Career Goal: Become a senior backend engineer specializing in AI-powered applications.
+
+Preferred Work Environment: A collaborative engineering team that encourages learning, experimentation, and knowledge sharing.
+
+## 8. Career Preferences
+
+Preferred Job Roles:
+
+* Python Backend Developer
+* AI Application Engineer
+* Generative AI Engineer
+* RAG Engineer
+
+Preferred Work Locations:
+
+* Pune, India
+* Bengaluru, India
+* Hyderabad, India
+* Remote opportunities
+
+Preferred Work Arrangement: Hybrid or remote
+
+Notice Period: 30 days
+
+Willing to Relocate: Yes, for a suitable opportunity
+
+## 9. Preferences and Additional Details
+
+Preferred Programming Language: Python
+
+Preferred Database for New Projects: PostgreSQL
+
+Preferred Backend Framework: FastAPI
+
+Preferred AI Deployment Approach: Local inference for prototypes and secure cloud deployment for production applications.
+
+Preferred Explanation Style: Clear explanations with practical examples.
+
+Primary Learning Goal: Understand how LLMs, embeddings, vector databases, and retrieval pipelines work together.
+
+## 10. Synthetic Company Policy
+
+The fictional company NovaTech Digital Solutions follows these internal guidelines:
+
+* Customer support assistants must use approved internal documentation when answering questions about company policies.
+* Answers about employee leave entitlement must be grounded in the current HR policy document.
+* If relevant documentation cannot be found, the assistant should state that it cannot verify the answer.
+* The assistant must not invent employee-specific information.
+* Internal documents must be retrieved according to the employee's access permissions.
+* Personal contact details should not be included in answers unless necessary for the user's request.
+* AI-generated answers involving financial or employment decisions must be reviewed by an authorized employee.
+
+These policies are fictional and intended only for this RAG learning project.
